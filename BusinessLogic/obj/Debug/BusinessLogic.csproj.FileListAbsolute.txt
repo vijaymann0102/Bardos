@@ -1,0 +1,4 @@
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Barnardos\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Barnardos\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Barnardos\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Barnardos\BusinessLogic\obj\Debug\BusinessLogic.pdb

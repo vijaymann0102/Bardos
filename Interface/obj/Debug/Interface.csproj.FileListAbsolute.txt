@@ -1,0 +1,8 @@
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Barnardos\Interface\bin\Debug\Interface.exe.config
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Barnardos\Interface\bin\Debug\Interface.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Barnardos\Interface\bin\Debug\Interface.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Barnardos\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Barnardos\Interface\obj\Debug\Interface.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Barnardos\Interface\obj\Debug\Interface.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Barnardos\Interface\bin\Debug\BusinessLogic.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Barnardos\Interface\bin\Debug\BusinessLogic.pdb
